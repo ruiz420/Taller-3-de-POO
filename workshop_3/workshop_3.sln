@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared2", "Shared2\Shared2.csproj", "{8C3E6AD7-9E90-48AA-A88E-BAAEA55D400A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MadisonBridges", "MadisonBridges", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Madison", "ConsoleApp1\Madison.csproj", "{FABCE456-3169-4D87-8E58-8EF63B9F6B4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HarvestingOnHorseback", "HarvestingOnHorseback", "{566797E5-6D81-4915-85AC-AB91B9388CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harvesting", "Harvesting\Harvesting.csproj", "{4869F8B5-D33B-4C84-9975-92F72655DC33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3E6AD7-9E90-48AA-A88E-BAAEA55D400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3E6AD7-9E90-48AA-A88E-BAAEA55D400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3E6AD7-9E90-48AA-A88E-BAAEA55D400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3E6AD7-9E90-48AA-A88E-BAAEA55D400A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABCE456-3169-4D87-8E58-8EF63B9F6B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABCE456-3169-4D87-8E58-8EF63B9F6B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABCE456-3169-4D87-8E58-8EF63B9F6B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABCE456-3169-4D87-8E58-8EF63B9F6B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4869F8B5-D33B-4C84-9975-92F72655DC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4869F8B5-D33B-4C84-9975-92F72655DC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4869F8B5-D33B-4C84-9975-92F72655DC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4869F8B5-D33B-4C84-9975-92F72655DC33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FABCE456-3169-4D87-8E58-8EF63B9F6B4E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4869F8B5-D33B-4C84-9975-92F72655DC33} = {566797E5-6D81-4915-85AC-AB91B9388CE9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C0DE4B-3705-466E-BA51-0C673ABBC5F4}
+	EndGlobalSection
+EndGlobal
