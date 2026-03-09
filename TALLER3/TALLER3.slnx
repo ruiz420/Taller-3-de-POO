@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/Harvesting/">
+    <Project Path="ConsoleApp1/HarvestingOnHorseback.csproj" Id="d7ff0e49-b464-4edf-bb0f-0df22eae3d97" />
+  </Folder>
+  <Folder Name="/MadisonBridge/">
+    <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="67ca03c5-209c-41b9-ba2a-0374b06a9f66" />
+  </Folder>
+  <Project Path="Shared/Shared.csproj" Id="06a104ba-ebbd-4140-a5ff-a79e38863713" />
+</Solution>
